@@ -6,7 +6,6 @@
 
 :root.theme-dark {
   --text-color:  #f1b2ce;
-  --main-font: 'IBM Plex Mono';
   --title-color: #db00ff;
   --accent-bg-color: #FF0070;
   --accent-text-color:#FF0070;

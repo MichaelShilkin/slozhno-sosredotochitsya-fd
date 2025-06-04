@@ -20,7 +20,7 @@
   }
   
   
-  @media (prefers-color-sheme: light) {
+  @media (prefers-color-scheme: light) {
     :root {
   --text-color: #353430;
   --main-text-color:#353430;
